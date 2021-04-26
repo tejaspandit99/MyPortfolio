@@ -1792,3 +1792,11 @@ h1, h2, h3, h4, h5,
   .post-meta a {
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
+
+.span1{
+  color: indigo;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+   word-spacing: 30px;
+}
